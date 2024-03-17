@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ac4b6bd9.css",
-    "main.js": "/static/js/main.2c0ed872.js",
+    "main.js": "/static/js/main.1c1f50cb.js",
     "static/js/221.23a45788.chunk.js": "/static/js/221.23a45788.chunk.js",
     "static/js/361.2b022c30.chunk.js": "/static/js/361.2b022c30.chunk.js",
     "static/media/moldarach.png": "/static/media/moldarach.52b8c4fd3f849f487679.png",
@@ -65,12 +65,12 @@
     "static/media/emerald_tablet.png": "/static/media/emerald_tablet.e46e0352c6c2c2512c48.png",
     "index.html": "/index.html",
     "main.ac4b6bd9.css.map": "/static/css/main.ac4b6bd9.css.map",
-    "main.2c0ed872.js.map": "/static/js/main.2c0ed872.js.map",
+    "main.1c1f50cb.js.map": "/static/js/main.1c1f50cb.js.map",
     "221.23a45788.chunk.js.map": "/static/js/221.23a45788.chunk.js.map",
     "361.2b022c30.chunk.js.map": "/static/js/361.2b022c30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac4b6bd9.css",
-    "static/js/main.2c0ed872.js"
+    "static/js/main.1c1f50cb.js"
   ]
 }
